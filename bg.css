@@ -1,0 +1,43 @@
+#opp{
+    float: right;
+    float:inline-start;
+    border: 9px solid rgb(0, 0, 0) ;
+    position:fixed;
+    bottom: 2%;
+}
+body{
+    background-color: rgb(253, 152, 0);
+}
+label{
+    border: solid;
+    float: right;
+    position: fixed;
+    bottom: 75%;
+    right: 10%;
+    border-collapse: collapse;
+    background-image: url(https://i.gifer.com/origin/85/856de846e59271089eca26c4260c9bdb_w200.gif);
+
+}
+ #td{
+    border:1px solid red;
+    padding: 8px;
+ }
+p{
+    position: fixed;
+    bottom: 50%;
+   
+    size: ch;
+}
+#oob{
+    position: fixed;
+    bottom: 70%;
+    border: 9px solid black ;
+    left: 10%;
+}
+#lkk{
+position: fixed;
+bottom: 20%;
+left: 50%;
+
+
+}

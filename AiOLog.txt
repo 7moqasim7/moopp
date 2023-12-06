@@ -1,0 +1,7 @@
+Microsoft .NET Framework
+.NET Framework 2.0 - 3.5.1:                                       	Fehlgeschlagen. Fehlercode: 3221225786 (0xC000013A)
+
+Standard Programme
+Java: Fix MS SystemUser Bug:                                   	Fertig
+Java: Remove old Installation:                                   	Fertig
+Java Runtime Environment 8 Update 251:               	Fertig
